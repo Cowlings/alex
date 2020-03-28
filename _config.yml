@@ -1,0 +1,12 @@
+title: Alex Cowling
+email: alex@cowling.co.nz
+description: >- 
+  I build websites using templating languages, HTML, CSS and JavaScript. My strengths lie in mobile-first design implementations with robust, reusable and scalable front-end components. I am flexible with technology stack and platforms and have learned a few along the way including Jekyll, CraftCMS, Expression Engine, Sharepoint, dotnetnuke and more.  I also have experience building processes for quality code delivery.
+baseurl: "" 
+url: "http://alex.cowling.co.nz/" 
+twitter_username: alexcowling
+github_username:  alexcowling 
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
