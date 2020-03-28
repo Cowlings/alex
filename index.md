@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+---
+layout: home
+---
 
-You can use the [editor on GitHub](https://github.com/Cowlings/alex/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Front-end Web Developer
+### Auckland, New Zealand
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Skills Summary
 
-### Markdown
+### Front-end development
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I build websites using templating languages, HTML, CSS and JavaScript. My strengths lie in mobile-first design implementations with robust, reusable and scalable front-end components. I am flexible with technology stack and platforms and have learned a few along the way including Jekyll, CraftCMS, Expression Engine, Sharepoint, dotnetnuke and more.  I also have experience building processes for quality code delivery.
 
-```markdown
-Syntax highlighted code block
+### Business expertise
 
-# Header 1
-## Header 2
-### Header 3
+In addition to the value I contribute through implementing the technical solution for the stakeholder, I have a deep desire to meet the goals of a seamless user experience and delivering on business objectives. I enjoying work with cross disciplinary teams to develop solutions which focus on outcome rather than output.
 
-- Bulleted
-- List
+## Experience
 
-1. Numbered
-2. List
+### International Volunteer HQ
+Front-end Web Developer
+November 2016 - March 2020 (3 years 5 months)
+Auckland, New Zealand
 
-**Bold** and _Italic_ and `Code` text
+I joined IVHQ during the rebuild of the marketing website and an internal Ruby on Rails application. I worked alongside the engineers which did the data migrations and infrastructure, and I was responsible for the front-end templating. Since the relaunch I’ve been involved in the rails application feature builds, redesign of marketing site components, A/B testing, mobile app wireframes, and building an additional website for our sister company, Intern Abroad HQ. The marketing site is built using popular JAMstack methodology. The static platform is built using Jekyll, which uses the Liquid templating language (popularised by Shopify) and SCSS, a CSS preprocessor. I’m also responsible for maintaining collaborative Javascript implementations in vanilla javascript and jQuery. 
 
-[Link](url) and ![Image](src)
-```
+### Flow Communications
+Web Developer
+June 2011 - October 2016 (5 years 5 months)
+Johannesburg, South Africa
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Flow Communications is a full service digital agency. At my time at Flow I was responsible for building eCommerce stores, online learning systems, listing directories, blogs and brochure sites. This was achieved through ExpressionEngine and CraftCMS using unique their templating languages along with the usual supporting HTML, CSS and JavaScript. Additionally I made use of preprocessors and compilers such as LESS, SCSS, Grunt and gulp. I leveraged libraries and frameworks such as Twitter Bootstrap and jQuery. We made use of GIT for version control, along with BitBucket as our code repository. I was also responsible for building emailing campaign mailer templates and working alongside PHP Developers in building bespoke functionality for Laravel projects. In my final year at Flow, I assumed the responsibilities of a team lead within the website development team; I developed internal processes for project managers to streamline writing briefs and assisted with writing specifications. I attended client meetings, inception workshops, wrote quotes, conducted internal and external training and engaged in mentoring.
 
-### Jekyll Themes
+### VentureWeb
+Project Assistant
+March 2009 - May 2011 (2 years 3 months)
+Johannesburg, South Africa
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Cowlings/alex/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+At VentureWeb, I was subcontracted to Accenture as a "project assistant" which duties entailed those of a front-end web developer. In this role I was given the opportunity to understand all aspects of business and work with one of the best consulting agencies in the world. I built internal intranets for Accenture personnel and liaised with clients from the United States, Netherlands, the United Kingdom and Spain on a weekly basis. My role included quality assurances and designing visual identities for internal divisions of Accenture within the brand guidelines.
 
-### Support or Contact
+### WoW Interactive
+Web Developer
+November 2006 - February 2009 (2 years 4 months)
+Johannesburg, South Africa
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Win on the Web is a web solution company specialising in DOTNETNUKE (CMS) and custom web applications. In this environment I was able to learn through real business applications. My role included head of the Website Production Team (up to three members in the team), front-end web development, approving all out-sourced graphics before presented to the client, skinning of Telerik R.A.D controls and graphic design.
